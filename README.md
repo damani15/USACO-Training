@@ -1,3 +1,3 @@
 # USACO-Training
 
-Practice USA Computing Olympiad (USACO) problems and my solutions.
+Prior USA Computing Olympiad (USACO) practice problems and my solutions.
